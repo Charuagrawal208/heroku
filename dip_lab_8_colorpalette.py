@@ -104,7 +104,7 @@ cv2_imshow(img)
 #   result=import_and_predict(image)
 #   
 # if st.button("About"):
-#   st.header(" jhvjfjhb")
+#   st.header(" xyz")
 #   st.subheader("Department of Computer Engineering")
 # html_temp = """
 #    <div class="" style="background-color:orange;" >
