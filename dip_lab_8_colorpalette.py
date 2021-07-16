@@ -104,8 +104,8 @@ cv2_imshow(img)
 #   result=import_and_predict(image)
 #   
 # if st.button("About"):
-#   st.header(" Sandeep Tuli")
-#   st.subheader("Assistant Professor, Department of Computer Engineering")
+#   st.header(" jhvjfjhb")
+#   st.subheader("Department of Computer Engineering")
 # html_temp = """
 #    <div class="" style="background-color:orange;" >
 #    <div class="clearfix">           
